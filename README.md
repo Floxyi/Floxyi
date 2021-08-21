@@ -9,3 +9,5 @@
 
 ### Languages and Tools:
 [<img align="left" alt="Java" width="22px" src="https://www.pikpng.com/pngl/m/204-2047555_datei-java-logo-svg-java-logo-svg-clipart.png"/>]
+
+<br />
