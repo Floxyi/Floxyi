@@ -14,4 +14,4 @@
 <img align="left" alt="Android Studio" width="50px" style="padding: 10px;" src="https://tploder.com/assets/application_androidstudio.png" />
 <img alt="IntelliJ" width="50px" style="padding: 10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/1200px-IntelliJ_IDEA_Icon.svg.png"/>
 
-[![Floxyi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Floxyi&hide=contribs,prs&count_private=true&show_icons=true&theme=github_dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Floxyi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Floxyi&hide=contribs,prs&count_private=true&show_icons=true&theme=github_dark&hide_border=true&bg_color=2d333b)](https://github.com/anuraghazra/github-readme-stats)
