@@ -1,5 +1,5 @@
 ## Hi there, I'm Floxyi
-[![Twitter Follow](https://img.shields.io/twitter/follow/Floxyi1?color=%231D9FEF&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=Floxyi1)
+[![Twitter Follow](https://img.shields.io/twitter/follow/Floxyi1?color=%0d1117&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=Floxyi1)
 
 ## I'm a hobby Java Developer!
 - 📱 I'm currently working on my own mobile App!
