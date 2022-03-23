@@ -2,8 +2,8 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/Floxyi1?color=%231D9FEF&style=for-the-badge)](https://twitter.com/intent/follow?screen_name=Floxyi1)
 
 ## I'm a hobby Java Developer!
-- 📱 I'm currently working on my own mobile App!
-- ⚡ I'm learning Android-Development!
+- ⛏ I'm currently working in Eluant Studio!
+- ⚡ I'm learning Java-Development!
 - 👨‍👦 I'm looking to collaborate with other Java Developers!
 
 
