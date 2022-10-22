@@ -1,4 +1,4 @@
-# Hi, I'm Floxyi! <img width="30" src="res/waving.gif">
+# Hi, I'm Florian aka Floxyi! <img width="30" src="res/waving.gif">
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/Floxyi1?color=%231D9FEF&style=for-the-badge)](https://twitter.com/intent/follow?screen_name=Floxyi1)
 
