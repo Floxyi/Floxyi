@@ -1,34 +1,17 @@
 # Hi, I'm Florian! <img width="30" src="res/waving.gif">
 
-~ aka Floxyi
-
 ## I'm a passionate developer from Germany
 
-→ ⚡ I'm currently learning Flutter-Development!  
-→ 🚀 I'm working on a new App called [Daty](https://github.com/Floxyi/Daty)!  
-→ ⛏ I'm also into Minecraft modding / plugin development!  
+→ ⚡ I'm currently learning Swift-Development!  
+→ 🚀 I have also worked on a new Flutter App called [Daty](https://github.com/Floxyi/Daty)!  
+→ ⛏ I'm also into Minecraft plugin development!  
 → 👨‍👦 I'm looking to collaborate with other Developers!  
 
 ## Languages and Tools
 
-<a href="https://www.java.com">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-</a>
-<a href="https://flutter.dev">
-<img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/>
-</a>
-<a href="https://dart.dev">
-<img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/>
-</a>
-<a href="https://firebase.google.com/">
-<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
-</a>
-<a href="https://www.figma.com/">
-<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
-</a>
-<a href="https://git-scm.com/">
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-</a>
+![My Skills](https://skillicons.dev/icons?i=java,flutter,swift,git)
+
+![My Tools](https://skillicons.dev/icons?i=idea,vscode)
 
 ## Stats
 
