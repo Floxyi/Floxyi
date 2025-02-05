@@ -13,7 +13,3 @@
 <img width="48" src="res/java.svg" /> <img width="48" src="res/flutter.svg" /> <img width="48" src="res/swift.svg" />
 
 <img width="48" src="res/intellij.svg" /> <img width="48" src="res/vscode.svg" /> <img width="48" src="res/xcode.svg" /> <img width="48" src="res/git.svg" />
-
-## GitHub Stats
-
-![Floxyi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Floxyi&hide=contribs,prs&count_private=true&show_icons=true&theme=github_dark&hide_border=true&bg_color=2d333b)
