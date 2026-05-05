@@ -1,26 +1,50 @@
 # Hi, I'm Florian Winkler! <3
 =============================
 
-Love turning ideas into working products.  
+Love turning ideas into working products.
 Currently building useful things for boosting productivity and developers.
 
 ---------------
 Connect With Me
 
-» X / Twitter   → [https://x.com/Manixh02](https://x.com/Floxyi1)  
+» X / Twitter   → https://x.com/Floxyi1
 » Email         → florianmeik.winkler@gmail.com
 
 --------------
 Skills & Tools
 
-» Backend:      PHP, Symfony, Java, Go  
-» Frontend:     React, JavaScript, TypeScript
-» Databases:    MySQL  
-» DevOps:       Docker, Git  
+» Backend:      PHP & Symfony, Java, Go, Swift
+» Frontend:     React, JavaScript, TypeScript, Swift-UI
+» Databases:    MySQL
+» DevOps:       Docker, Git
 
 -----------------
 Featured Projects
 
+● Buffer (in-development)
+  ✦ Lightweight native macOS clipboard manager fork.
+  ✦ Forked from: https://github.com/samirpatil2000/Buffer
+  ✦ Links: https://github.com/Floxyi/Buffer
+
+● Spatial (in-development)
+  ✦ Native macOS and niri inspired window manager.
+  ✦ Links: https://github.com/Floxyi/Buffer
+
+● Savy
+  ✦ Native Swift-App for iOS to challenge you and your friends to save up money.
+  ✦ Links: https://github.com/Floxyi/Savy
+
+● EvilSnake
+  ✦ Snake inspired raylib game written in C++.
+  ✦ Links: https://github.com/Floxyi/EvilSnake
+
+● DevTools (old)
+  ✦ A Minecraft server plugin to help other plugin developers.
+  ✦ Links: https://github.com/Floxyi/DevTools
+
+● Daty (old)
+  ✦ A Flutter app to store birthdays of your friends and family.
+  ✦ Links: https://github.com/Floxyi/Daty
 
 --------------------------
 Thanks for stopping by! :)
